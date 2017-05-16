@@ -1,4 +1,4 @@
 # abv-bc-slc
-Basic JavaScript project for demonstration of programming concepts.
+A getPrimes function that takes an integer value n as argument and generates prime numbers from 0 to n with asymptotic analysis.
 
 Run `npm install` to get started
